@@ -1,5 +1,6 @@
 # angular-library-lasitha
 [![Build Status](https://travis-ci.org/LasithaPrabodha/angular-library.svg?branch=master)](https://travis-ci.org/LasithaPrabodha/angular-library)
+[![Coverage Status](https://coveralls.io/repos/github/LasithaPrabodha/angular-library/badge.svg?branch=master)](https://coveralls.io/github/LasithaPrabodha/angular-library?branch=master)
 >Build an Angular library compatible with AoT compilation &amp; Tree shaking.
 
 This starter allows you to create a library for **Angular 4+** apps written in _TypeScript_, _ES6_ or _ES5_. 
